@@ -6,6 +6,7 @@ Welcome to the OPFEM repository, an open-source Python-based finite element mode
 
 Please explore the following sections to get started with OPFEM:
 
+- **[Introduction](./docs/introduction/main.md):** Learn about OPFEM and its capabilities.
 - **[Quick Start](./docs/quick_start/main.md):** A guide to quickly set up and run OPFEM on your system.
 - **[Usage](./docs/usage/main.md):** Learn how to use OPFEM for your finite element modeling projects.
 - **[Contribution Guidelines](./docs/contribution/main.md):** Interested in contributing to OPFEM? Find information on how to get involved.
